@@ -25,7 +25,7 @@ if (q1 === '26')
   pontos += 1;
 }
 var q2 = prompt('Qual meu signo?').toUpperCase();
-if (q2 === 'ÁRIES') 
+if (q2 === 'ARIES') 
 {
   pontos += 1;
 }
@@ -35,7 +35,7 @@ if (q3 === 'TYRA')
   pontos += 1;
 }
 var q4 = prompt('Em que ano me formei em marketing');
-if (q4 === '2016') 
+if (q4 === '2018') 
 {
   pontos += 1;
 }
