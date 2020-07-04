@@ -44,8 +44,8 @@ if (q5 === 'ANGELA')
 {
   pontos += 1;
 }
-var q6 = prompt('Qual o doce favorito do meu namorado?').toUpperCase();
-if (q6 === 'TORTA DE LIMÃO') 
+var q6 = prompt('Qual é meu segundo sobrenome').toUpperCase();
+if (q6 === 'GOMES') 
 {
   pontos += 1;
 }
@@ -76,10 +76,18 @@ if (pontos === 6) {
 
 else {
     mensagem =('Ooops...')
+
+    
+
 }
 
 
 // 6. Output results to the <main> element
 
 document.querySelector('main').innerHTML =`${mensagem}`;
+
+document.querySelector('#botaoreset').style = 'display: initial'
+document.querySelector('#botaostart').style = 'display: none'
 }
+
+
