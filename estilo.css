@@ -48,7 +48,7 @@ body {
     .bt1 {
         border-radius: 20px;
         padding: 18px 20px;
-        font-size: 0.4em;
+        font-size: 30px;
         background-color: whitesmoke;
         border: solid 2px whitesmoke;
         font-weight: 600;
@@ -65,7 +65,7 @@ body {
     .btn2 {
         border-radius: 20px;
         padding: 18px 20px;
-        font-size: 0.5em;
+        font-size: 30px;
         border-color: whitesmoke;
         background-color: rgb(87, 49, 255);
         border: solid 2px whitesmoke;
