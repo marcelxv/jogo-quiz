@@ -48,13 +48,13 @@ body {
     .bt1 {
         border-radius: 20px;
         padding: 18px 20px;
-        font-size: 14px;
+        font-size: 2em;
         background-color: whitesmoke;
         border: solid 2px whitesmoke;
         font-weight: 600;
         margin-bottom: 200px;
         color: rgb(87, 49, 255);
-    
+
     }
     
     .bt1:hover {
